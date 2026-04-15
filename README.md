@@ -1,16 +1,21 @@
-# teknolojimarket
+# 📱 Teknomarkt - Mobil E-Ticaret Uygulaması
 
-A new Flutter project.
+Teknomarkt, kullanıcıların en son teknoloji ürünlerini listeleyebildiği, detaylarını inceleyebildiği ve sepet işlemlerini gerçekleştirebildiği bir Flutter mobil uygulama projesidir.
 
-## Getting Started
+## 🚀 Özellikler
+* **Ürün Listeleme:** Kategorilere ayrılmış teknoloji ürünleri.
+* **Detay Sayfası:** Ürün özellikleri ve fiyat bilgisi.
+* **Sepet Sistemi:** Ürün ekleme, çıkarma ve toplam tutar hesaplama.
+* **Kullanıcı Dostu Arayüz:** Modern ve temiz UI tasarımı.
 
-This project is a starting point for a Flutter application.
+## 🛠 Kullanılan Teknolojiler
+* **Framework:** [Flutter](https://flutter.dev)
+* **Dil:** [Dart](https://dart.dev)
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Ekran Görüntüleri
+![alt text](acılanmenü.png) ![alt text](menü.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Kurulum
+1. Bu depoyu klonlayın: `git clone https://github.com/bahrikarakok/Teknomarkt-mobile.git`
+2. Paketleri yükleyin: `flutter pub get`
+3. Uygulamayı çalıştırın: `flutter run`
